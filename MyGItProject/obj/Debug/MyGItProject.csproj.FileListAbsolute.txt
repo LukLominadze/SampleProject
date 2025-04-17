@@ -1,0 +1,8 @@
+C:\Users\Teacher\source\repos\MyGItProject\MyGItProject\bin\Debug\MyGItProject.exe.config
+C:\Users\Teacher\source\repos\MyGItProject\MyGItProject\bin\Debug\MyGItProject.exe
+C:\Users\Teacher\source\repos\MyGItProject\MyGItProject\bin\Debug\MyGItProject.pdb
+C:\Users\Teacher\source\repos\MyGItProject\MyGItProject\obj\Debug\MyGItProject.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\MyGItProject\MyGItProject\obj\Debug\MyGItProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teacher\source\repos\MyGItProject\MyGItProject\obj\Debug\MyGItProject.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\MyGItProject\MyGItProject\obj\Debug\MyGItProject.exe
+C:\Users\Teacher\source\repos\MyGItProject\MyGItProject\obj\Debug\MyGItProject.pdb
