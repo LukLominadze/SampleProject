@@ -12,6 +12,9 @@ namespace MyGItProject
         {
             Console.WriteLine("Hello World!");
 
+            Console.WriteLine("Second User");
+            Console.WriteLine("Helloooo");
+
             Console.ReadKey();
         }
     }
