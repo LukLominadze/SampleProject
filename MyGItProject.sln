@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGItProject", "MyGItProject\MyGItProject.csproj", "{1DC67C09-59C9-4A5C-8CDD-1563C1DBC528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC67C09-59C9-4A5C-8CDD-1563C1DBC528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC67C09-59C9-4A5C-8CDD-1563C1DBC528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC67C09-59C9-4A5C-8CDD-1563C1DBC528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC67C09-59C9-4A5C-8CDD-1563C1DBC528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D270418-1096-429C-ADC4-96273AD317E1}
+	EndGlobalSection
+EndGlobal
